@@ -11,7 +11,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abhijeetsharnagat&icon=2&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
-👋 Hello there! I'm [Your Name], a passionate Software Developer with a keen interest in ADAS (Advanced Driver Assistance Systems) technology. My coding journey is fueled by a love for turning ideas into reality, and I specialize in C++ development.
+👋 Hello there! I'm Meghraj Jogdand, a passionate Software Developer with a keen interest in ADAS (Advanced Driver Assistance Systems) technology. My coding journey is fueled by a love for turning ideas into reality, and I specialize in C++ development.
 
 🚗 As an ADAS Technology Enthusiast, I'm excited about the intersection of software and automotive innovation. My goal is to contribute to the advancement of intelligent and safer driving experiences.
 
