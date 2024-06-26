@@ -2,7 +2,7 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
 <h1 align="center">Hey there! I'm Meghraj Jogdand👋</h1>
-<h3 align="center">🚀  Software Developer | 💻ADAS Technology Enthusiast | 💡Coder | ☕C++ Developer 🚀</h3>
+<h3 align="center">🚀 Embedded Developer | 💻ADAS Technology Enthusiast | 💡Coder | ☕C++ Developer 🚀</h3>
 
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/djo0mmfll/image/upload/v1686268899/gfgfcfg_eb84wp.gif" />
